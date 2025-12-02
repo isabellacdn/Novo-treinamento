@@ -1,6 +1,6 @@
 # Teste-docker
 
-Este repositório está no Docker Hub, e pode ser adquirido com o comando:
+Este repositório está no Docker Hub, e pode ser adquirido com o comando::
 
 ```docker run vitorwille/teste-docker:1.0.0```
 
