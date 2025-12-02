@@ -1,5 +1,0 @@
-
-for(var i=0; i<10; i++){
-    console.log('Hello, world! (porém, com Docker!)');
-}
-//teste da silva junior
